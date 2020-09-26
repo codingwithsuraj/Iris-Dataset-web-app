@@ -22,14 +22,6 @@ pip install streamlit
 streamlit run app.py
 ```
 
-#### Intro
-![](screenshots/home1.png)
-
-#### Show DataFrame/Columns
-![](screenshots/home2.png)
-
-#### Show and Hide Image
-![](screenshots/home3.png)
 
 #### With Description of App
 ![](screenshots/iris_eda_desc.png)
@@ -41,8 +33,8 @@ streamlit run app.py
 
 
 #### By
-+ Jesse E.Agbe(JCharis)
-+ Jesus Saves@JCharisTech
++ surajrajput7306@gmail.com
++ By Suraj Singh Rajput
 
 #### More Thanks to The Streamlit Team
 + Awesome Tool
